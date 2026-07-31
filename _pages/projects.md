@@ -11,6 +11,6 @@ Welcome to my software and research portfolio. Below you can explore my open-sou
 
 ---
 
-{% for post in site.portfolio %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}

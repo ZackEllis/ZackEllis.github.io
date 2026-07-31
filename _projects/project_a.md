@@ -1,8 +1,8 @@
 ---
 title: "Project A"
 excerpt: "Something"
-collection: portfolio
-permalink: /portfolio/scarabaeus/
+collection: projects
+permalink: /projects/project_a/
 ---
 * [Code Repository](https://github.com/CCAR-ORCCA/scarabaeus)
 * [Documentation](https://ccar-orcca.github.io/scarabaeus-docs/)

@@ -15,7 +15,7 @@ main:
     url: /projects/
     children:
       - title: "Project A"
-        url: "/portfolio/project_a"
+        url: "/projects/project_a"
 
   # - title: "Talks"
   #   url: /talks/    
