@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Project A"
 excerpt: "Something"
 collection: projects

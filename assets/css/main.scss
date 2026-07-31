@@ -37,3 +37,21 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Push the theme toggle switch/button to the upper right corner */
+.masthead__menu-item:last-child,
+.theme-toggle,
+.minimal-mistakes-skin-switch {
+  margin-left: auto !important;
+  float: right !important;
+}
+
+@media (max-width: 64em) {
+  /* Prevent clipping on mobile screens by dropping the float constraint */
+  .masthead__menu-item:last-child,
+  .theme-toggle,
+  .minimal-mistakes-skin-switch {
+    margin-left: 0 !important;
+    float: none !important;
+  }
+}
